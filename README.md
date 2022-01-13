@@ -14,10 +14,10 @@
   ##
  
 <div>
-  <a href="https://www.linkedin.com/in/brusmoraes/" target="_blank"><img src="https://img.shields.io/badge/-Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/brunamoraes20" target="_blank"><img src="https://img.shields.io/badge/-Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunasthephany.moraes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-DD4333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/boomoraes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DB2C7F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/brunamoraes20" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brusmoraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
